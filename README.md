@@ -21,7 +21,7 @@ See [examples.cpp](examples.cpp).
 
 #### Unix-like systems
 ```sh
-git clone http://gitlab.com/eidheim/tiny-process-library
+git clone https://github.com/koradeh/tiny-process-library.git
 cd tiny-process-library
 mkdir build
 cd build
@@ -32,8 +32,8 @@ make
 
 #### Windows with MSYS2 (https://msys2.github.io/)
 ```sh
-git clone http://gitlab.com/eidheim/tiny-process-library
-cd tiny-process-library
+git clone https://github.com/koradeh/tiny-process-library.git
+ cd tiny-process-library
 mkdir build
 cd build
 cmake -G"MSYS Makefiles" ..
