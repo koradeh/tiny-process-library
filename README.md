@@ -1,5 +1,3 @@
-**_This project has moved to https://gitlab.com/eidheim/tiny-process-library._**
-
 # tiny-process-library
 A small platform independent library making it simple to create and stop new processes in C++, as well as writing to stdin and reading from stdout and stderr of a new process.
 
@@ -17,7 +15,7 @@ This library was created for, and is used by the C++ IDE project [juCi++](https:
 * Correctly closes file descriptors/handles
 
 ### Usage
-See [examples.cpp](https://gitlab.com/eidheim/tiny-process-library/blob/master/examples.cpp).
+See [examples.cpp](examples.cpp).
 
 ### Get, compile and run
 
